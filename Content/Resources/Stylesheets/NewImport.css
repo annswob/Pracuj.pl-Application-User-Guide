@@ -1,0 +1,54 @@
+/*<meta />*/
+
+/*<meta sourceDocument="C:\Users\nicod\Desktop\MadCap Flare projects\word to import.docx" />*/
+
+p
+{
+	margin-bottom: 8pt;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ol
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ul
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+li
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+td
+{
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	vertical-align: top;
+}
+
+a.Hyperlink
+{
+	color: #0563C1;
+	text-decoration: underline;
+}
+
+p.p_1
+{
+	font-weight: bold;
+}
+
